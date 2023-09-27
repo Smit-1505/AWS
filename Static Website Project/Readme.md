@@ -1,6 +1,6 @@
 
 
-## Host a website on AWS (Beginner)
+## Host a website on AWS
 
 
 ### Step #1: Design Your Website
