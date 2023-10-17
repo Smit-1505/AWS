@@ -1,4 +1,4 @@
-## Visualize Data using Amazon QuickSight (Beginner)
+## Visualize Data using Amazon QuickSight
 
 In this project, you'll learn how to create visualizations from a large dataset using Amazon S3 and Amazon Quicksight. We'll be working with a dataset of 50,000 best-selling products on Amazon.com.
 
